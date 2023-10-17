@@ -1,0 +1,17 @@
+galaxy_info:
+  role_name: role1
+  author: me
+  description: asdggh
+  company: virtusa
+  issue_tracker_url: github.com
+  license: asg
+  min_ansible_version: 1.0.1
+  min_ansible_container_version: 1.0.0
+  github_branch: test
+  galaxy_tags:
+    - tag1
+  platforms:
+    - name: windows
+      versions:
+        - all
+dependencies: []
